@@ -1,0 +1,933 @@
+[
+  {
+    "zip": 77449,
+    "city": "Katy",
+    "stateCode": "TX",
+    "population": 122098,
+    "state": "Texas"
+  },
+  {
+    "zip": 77084,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 108557,
+    "state": "Texas"
+  },
+  {
+    "zip": 77433,
+    "city": "Cypress",
+    "stateCode": "TX",
+    "population": 107887,
+    "state": "Texas"
+  },
+  {
+    "zip": 77429,
+    "city": "Cypress",
+    "stateCode": "TX",
+    "population": 90790,
+    "state": "Texas"
+  },
+  {
+    "zip": 77379,
+    "city": "Spring",
+    "stateCode": "TX",
+    "population": 83247,
+    "state": "Texas"
+  },
+  {
+    "zip": 77083,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 75004,
+    "state": "Texas"
+  },
+  {
+    "zip": 77450,
+    "city": "Katy",
+    "stateCode": "TX",
+    "population": 72651,
+    "state": "Texas"
+  },
+   {
+    "zip": 77053,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 30256,
+    "state": "Texas"
+  },
+  {
+    "zip": 77036,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 72278,
+    "state": "Texas"
+  },
+  {
+    "zip": 77346,
+    "city": "Humble",
+    "stateCode": "TX",
+    "population": 70704,
+    "state": "Texas"
+  },
+  {
+    "zip": 77095,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 69644,
+    "state": "Texas"
+  },
+  {
+    "zip": 77375,
+    "city": "Tomball",
+    "stateCode": "TX",
+    "population": 67965,
+    "state": "Texas"
+  },
+  {
+    "zip": 77521,
+    "city": "Baytown",
+    "stateCode": "TX",
+    "population": 66215,
+    "state": "Texas"
+  },
+  {
+    "zip": 77373,
+    "city": "Spring",
+    "stateCode": "TX",
+    "population": 64828,
+    "state": "Texas"
+  },
+  {
+    "zip": 77077,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 62933,
+    "state": "Texas"
+  },
+  {
+    "zip": 77072,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 61688,
+    "state": "Texas"
+  },
+  {
+    "zip": 77396,
+    "city": "Humble",
+    "stateCode": "TX",
+    "population": 60253,
+    "state": "Texas"
+  },
+  {
+    "zip": 77015,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 59314,
+    "state": "Texas"
+  },
+  {
+    "zip": 77070,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 58409,
+    "state": "Texas"
+  },
+  {
+    "zip": 77089,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 56988,
+    "state": "Texas"
+  },
+  {
+    "zip": 77493,
+    "city": "Katy",
+    "stateCode": "TX",
+    "population": 55317,
+    "state": "Texas"
+  },
+  {
+    "zip": 77044,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 54313,
+    "state": "Texas"
+  },
+  {
+    "zip": 77088,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 54007,
+    "state": "Texas"
+  },
+  {
+    "zip": 77082,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 53401,
+    "state": "Texas"
+  },
+  {
+    "zip": 77081,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 52360,
+    "state": "Texas"
+  },
+  {
+    "zip": 77388,
+    "city": "Spring",
+    "stateCode": "TX",
+    "population": 52127,
+    "state": "Texas"
+  },
+  {
+    "zip": 77040,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 49762,
+    "state": "Texas"
+  },
+  {
+    "zip": 77099,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 49541,
+    "state": "Texas"
+  },
+  {
+    "zip": 77064,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 49240,
+    "state": "Texas"
+  },
+  {
+    "zip": 77093,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 48215,
+    "state": "Texas"
+  },
+  {
+    "zip": 77338,
+    "city": "Humble",
+    "stateCode": "TX",
+    "population": 47997,
+    "state": "Texas"
+  },
+  {
+    "zip": 77080,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 47661,
+    "state": "Texas"
+  },
+  {
+    "zip": 77060,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 46266,
+    "state": "Texas"
+  },
+  {
+    "zip": 77057,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 45023,
+    "state": "Texas"
+  },
+  {
+    "zip": 77339,
+    "city": "Kingwood",
+    "stateCode": "TX",
+    "population": 43810,
+    "state": "Texas"
+  },
+  {
+    "zip": 77389,
+    "city": "Spring",
+    "stateCode": "TX",
+    "population": 43674,
+    "state": "Texas"
+  },
+  {
+    "zip": 77055,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 43362,
+    "state": "Texas"
+  },
+  {
+    "zip": 77007,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 42881,
+    "state": "Texas"
+  },
+  {
+    "zip": 77073,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 41866,
+    "state": "Texas"
+  },
+  {
+    "zip": 77075,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 41271,
+    "state": "Texas"
+  },
+  {
+    "zip": 77049,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 41035,
+    "state": "Texas"
+  },
+  {
+    "zip": 77090,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 40764,
+    "state": "Texas"
+  },
+  {
+    "zip": 77042,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 40747,
+    "state": "Texas"
+  },
+  {
+    "zip": 77063,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 39554,
+    "state": "Texas"
+  },
+  {
+    "zip": 77066,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 39234,
+    "state": "Texas"
+  },
+  {
+    "zip": 77065,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 38994,
+    "state": "Texas"
+  },
+  {
+    "zip": 77074,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 38624,
+    "state": "Texas"
+  },
+  {
+    "zip": 77008,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 38496,
+    "state": "Texas"
+  },
+  {
+    "zip": 77377,
+    "city": "Tomball",
+    "stateCode": "TX",
+    "population": 38188,
+    "state": "Texas"
+  },
+  {
+    "zip": 77014,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 37573,
+    "state": "Texas"
+  },
+  {
+    "zip": 77506,
+    "city": "Pasadena",
+    "stateCode": "TX",
+    "population": 37561,
+    "state": "Texas"
+  },
+  {
+    "zip": 77571,
+    "city": "La Porte",
+    "stateCode": "TX",
+    "population": 37346,
+    "state": "Texas"
+  },
+  {
+    "zip": 77034,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 37273,
+    "state": "Texas"
+  },
+  {
+    "zip": 77024,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 37269,
+    "state": "Texas"
+  },
+  {
+    "zip": 77009,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 36872,
+    "state": "Texas"
+  },
+  {
+    "zip": 77520,
+    "city": "Baytown",
+    "stateCode": "TX",
+    "population": 36488,
+    "state": "Texas"
+  },
+  {
+    "zip": 77502,
+    "city": "Pasadena",
+    "stateCode": "TX",
+    "population": 36374,
+    "state": "Texas"
+  },
+  {
+    "zip": 77092,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 36320,
+    "state": "Texas"
+  },
+  {
+    "zip": 77087,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 35960,
+    "state": "Texas"
+  },
+  {
+    "zip": 77004,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 35506,
+    "state": "Texas"
+  },
+  {
+    "zip": 77079,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 35097,
+    "state": "Texas"
+  },
+  {
+    "zip": 77035,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 34254,
+    "state": "Texas"
+  },
+  {
+    "zip": 77047,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 33569,
+    "state": "Texas"
+  },
+  {
+    "zip": 77076,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 33529,
+    "state": "Texas"
+  },
+  {
+    "zip": 77536,
+    "city": "Deer Park",
+    "stateCode": "TX",
+    "population": 33111,
+    "state": "Texas"
+  },
+  {
+    "zip": 77096,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 33001,
+    "state": "Texas"
+  },
+  {
+    "zip": 77017,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 32574,
+    "state": "Texas"
+  },
+  {
+    "zip": 77045,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 32478,
+    "state": "Texas"
+  },
+  {
+    "zip": 77067,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 32405,
+    "state": "Texas"
+  },
+  {
+    "zip": 77038,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 32142,
+    "state": "Texas"
+  },
+  {
+    "zip": 77041,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 31912,
+    "state": "Texas"
+  },
+  {
+    "zip": 77532,
+    "city": "Crosby",
+    "stateCode": "TX",
+    "population": 31384,
+    "state": "Texas"
+  },
+  {
+    "zip": 77530,
+    "city": "Channelview",
+    "stateCode": "TX",
+    "population": 31304,
+    "state": "Texas"
+  },
+  {
+    "zip": 77091,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 30357,
+    "state": "Texas"
+  },
+  {
+    "zip": 77086,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 29705,
+    "state": "Texas"
+  },
+  {
+    "zip": 77016,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 29376,
+    "state": "Texas"
+  },
+  {
+    "zip": 77025,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 29295,
+    "state": "Texas"
+  },
+  {
+    "zip": 77018,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 28892,
+    "state": "Texas"
+  },
+  {
+    "zip": 77005,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 28470,
+    "state": "Texas"
+  },
+  {
+    "zip": 77033,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 28255,
+    "state": "Texas"
+  },
+  {
+    "zip": 77039,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 27907,
+    "state": "Texas"
+  },
+  {
+    "zip": 77071,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 26990,
+    "state": "Texas"
+  },
+  {
+    "zip": 77022,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 26903,
+    "state": "Texas"
+  },
+  {
+    "zip": 77345,
+    "city": "Kingwood",
+    "stateCode": "TX",
+    "population": 26791,
+    "state": "Texas"
+  },
+  {
+    "zip": 77054,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 26708,
+    "state": "Texas"
+  },
+  {
+    "zip": 77598,
+    "city": "Webster",
+    "stateCode": "TX",
+    "population": 26635,
+    "state": "Texas"
+  },
+  {
+    "zip": 77043,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 25900,
+    "state": "Texas"
+  },
+  {
+    "zip": 77020,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 25715,
+    "state": "Texas"
+  },
+  {
+    "zip": 77023,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 25680,
+    "state": "Texas"
+  },
+  {
+    "zip": 77021,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 25500,
+    "state": "Texas"
+  },
+  {
+    "zip": 77504,
+    "city": "Pasadena",
+    "stateCode": "TX",
+    "population": 25401,
+    "state": "Texas"
+  },
+  {
+    "zip": 77061,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 25169,
+    "state": "Texas"
+  },
+  {
+    "zip": 77062,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 24561,
+    "state": "Texas"
+  },
+  {
+    "zip": 77006,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 24006,
+    "state": "Texas"
+  },
+  {
+    "zip": 77586,
+    "city": "Seabrook",
+    "stateCode": "TX",
+    "population": 23802,
+    "state": "Texas"
+  },
+  {
+    "zip": 77503,
+    "city": "Pasadena",
+    "stateCode": "TX",
+    "population": 23248,
+    "state": "Texas"
+  },
+  {
+    "zip": 77505,
+    "city": "Pasadena",
+    "stateCode": "TX",
+    "population": 23179,
+    "state": "Texas"
+  },
+  {
+    "zip": 77019,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 22839,
+    "state": "Texas"
+  },
+  {
+    "zip": 77056,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 21941,
+    "state": "Texas"
+  },
+  {
+    "zip": 77026,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 20732,
+    "state": "Texas"
+  },
+  {
+    "zip": 77069,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 20633,
+    "state": "Texas"
+  },
+  {
+    "zip": 77048,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 19741,
+    "state": "Texas"
+  },
+  {
+    "zip": 77027,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 19478,
+    "state": "Texas"
+  },
+  {
+    "zip": 77447,
+    "city": "Hockley",
+    "stateCode": "TX",
+    "population": 19196,
+    "state": "Texas"
+  },
+  {
+    "zip": 77002,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 18800,
+    "state": "Texas"
+  },
+  {
+    "zip": 77028,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 18669,
+    "state": "Texas"
+  },
+  {
+    "zip": 77013,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 18512,
+    "state": "Texas"
+  },
+  {
+    "zip": 77059,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 18370,
+    "state": "Texas"
+  },
+  {
+    "zip": 77058,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 17956,
+    "state": "Texas"
+  },
+  {
+    "zip": 77012,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 17950,
+    "state": "Texas"
+  },
+  {
+    "zip": 77037,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 17585,
+    "state": "Texas"
+  },
+  {
+    "zip": 77031,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 17351,
+    "state": "Texas"
+  },
+  {
+    "zip": 77401,
+    "city": "Bellaire",
+    "stateCode": "TX",
+    "population": 17233,
+    "state": "Texas"
+  },
+  {
+    "zip": 77051,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 16974,
+    "state": "Texas"
+  },
+  {
+    "zip": 77011,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 16685,
+    "state": "Texas"
+  },
+  {
+    "zip": 77085,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 16550,
+    "state": "Texas"
+  },
+  {
+    "zip": 77587,
+    "city": "South Houston",
+    "stateCode": "TX",
+    "population": 16185,
+    "state": "Texas"
+  },
+  {
+    "zip": 77029,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 16008,
+    "state": "Texas"
+  },
+  {
+    "zip": 77098,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 15553,
+    "state": "Texas"
+  },
+  {
+    "zip": 77078,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 14241,
+    "state": "Texas"
+  },
+  {
+    "zip": 77032,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 13743,
+    "state": "Texas"
+  },
+  {
+    "zip": 77030,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 12546,
+    "state": "Texas"
+  },
+  {
+    "zip": 77336,
+    "city": "Huffman",
+    "stateCode": "TX",
+    "population": 11835,
+    "state": "Texas"
+  },
+  {
+    "zip": 77068,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 11451,
+    "state": "Texas"
+  },
+  {
+    "zip": 77094,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 10623,
+    "state": "Texas"
+  },
+  {
+    "zip": 77003,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 10169,
+    "state": "Texas"
+  },
+  {
+    "zip": 77562,
+    "city": "Highlands",
+    "stateCode": "TX",
+    "population": 9793,
+    "state": "Texas"
+  },
+  {
+    "zip": 77547,
+    "city": "Galena Park",
+    "stateCode": "TX",
+    "population": 9336,
+    "state": "Texas"
+  },
+  {
+    "zip": 77050,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 5949,
+    "state": "Texas"
+  },
+  {
+    "zip": 77204,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 4310,
+    "state": "Texas"
+  },
+  {
+    "zip": 77046,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 1254,
+    "state": "Texas"
+  },
+  {
+    "zip": 77010,
+    "city": "Houston",
+    "stateCode": "TX",
+    "population": 837,
+    "state": "Texas"
+  },
+  {
+    "zip": 77507,
+    "city": "Pasadena",
+    "stateCode": "TX",
+    "population": 561,
+    "state": "Texas"
+  }
+]
